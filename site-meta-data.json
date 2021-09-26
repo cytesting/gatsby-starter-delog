@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Álgebra Lineal",
+  "siteUrl": "https://algebralineal.netlify.app/",
+  "description": "Profesores y clases de álgebra lineal",
   "home": {
     "title": "Clases de Algebra Lineal",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "description": "Ofrecemos asesorías y clases de álgebra lineal. WhatsApp: 3107489655"
   }
 }
