@@ -3,7 +3,7 @@ template: BlogPost
 path: /algebra-inteligencia-artificial
 date: 2021-09-27T14:59:36.571Z
 title: El Álgebra Lineal y la Inteligencia Artificial
-thumbnail: /assets/neural-net.png
+thumbnail: /assets/axler2.png
 ---
 
 ## El álgebra lineal, la geometría analítica y la estadística son las bases teóricas de la inteligencia artificial
