@@ -20,7 +20,7 @@ const ContactPage = ({
           <p>Profesores de álgebra lineal &rarr;</p>
         </div>
         <div>
-          <form className="form-container" name="micontacto" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+          <form className="form-container" name="micontacto" netlify-honeypot="bot-field" data-netlify="true">
             <div hidden aria-hidden="true">
               <label>
                 No rellenes este campo si eres humano: 
