@@ -3,7 +3,7 @@ template: BlogPost
 path: /libros-algebra
 date: 2021-09-27T07:08:53.137Z
 title: Libros de álgebra Lineal
-thumbnail: /assets/libros-gafas.jpg
+thumbnail: /assets/libro-gafas.jpg
 metaDescription: libros
 ---
 
