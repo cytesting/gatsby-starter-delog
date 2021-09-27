@@ -33,4 +33,4 @@ Aquí se muestran varias operaciones como hallar el determinante, la inversa y l
 >>> soln
 ```
 
-[Página de sympy](https://www.sympy.org/en/index.html "Sympy")
+Más información de Sympy: [Sympy](https://www.sympy.org/en/index.html "Sympy")
