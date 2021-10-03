@@ -21,6 +21,8 @@ const IndexPage = ({
       <Helmet>
         <title>{site.siteMetadata.title}</title>
         <meta name="description" content={site.siteMetadata.description} />
+        <meta name="keywords" content={site.siteMetadata.keywords} />
+        <html lang="es-CO" />
       </Helmet>
       <HeroHeader/>
       <h2>Entradas de Blog &darr;</h2>
