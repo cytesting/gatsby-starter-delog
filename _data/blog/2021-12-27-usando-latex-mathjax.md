@@ -7,3 +7,9 @@ thumbnail: /assets/system-equations.jpg
 ---
 
 Mathjax es un módulo de JavaScript para representar ecuaciones y símbolos matemáticos en páginas Web.
+
+Ejemplo de ecuación:
+
+\begin{equation}
+E = mc^2
+\end{equation}
