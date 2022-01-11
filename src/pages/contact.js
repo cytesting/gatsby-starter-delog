@@ -18,9 +18,11 @@ const ContactPage = ({
         <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
           <h1 className="post-title">Contacto</h1>
           <p>Profesores de álgebra lineal &rarr;</p>
+          <p>Teléfono / Whatsapp: 3107489655 </p>
         </div>
         <div>
           <form className="form-container" name="micontacto" netlify-honeypot="bot-field" data-netlify="true">
+            <input type="hidden" name="form-name" value="micontacto" />
             <div hidden aria-hidden="true">
               <label>
                 No rellenes este campo si eres humano: 

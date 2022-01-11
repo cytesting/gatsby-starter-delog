@@ -35,3 +35,23 @@ Resultado:
 \begin{equation}
 E = mc^2
 \end{equation}
+
+### Otros ejemplos:
+
+$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
+
+$$
+  \begin{pmatrix}
+    a & b\\
+    c & d\\
+  \hline
+    1 & 0\\
+    0 & 1
+  \end{pmatrix}
+$$
+
+f(n) =
+\begin{cases}
+n/2,  & \text{si $n$ es par} \\
+3n+1, & \text{si $n$ es impar}
+\end{cases}
